@@ -1,2 +1,14 @@
-# acc4redirect.github.io
-redirectories
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Custom Embed Metadata -->
+    <meta property="og:title" content="accfourredirect on X: "https://t.co/2fVtqqU89O" / X" />
+    <meta property="og:description" content="https://t.co/2fVtqqU89O" />
+    <meta property="og:image" content="https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png" />
+    <!-- Automatic Redirect (set to 0 seconds) -->
+    <meta http-equiv="refresh" content="0; url=https://your-destination-url.com">
+</head>
+<body>
+    <p>Redirecting you to our page...</p>
+</body>
+</html>
